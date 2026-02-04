@@ -30,8 +30,6 @@ Each directory contains a `.github/workflows` folder defining the pipelines for 
 * **Custom Docker Action**: A Python-based custom action located in Module 09 (`deploy-s3-docker`) demonstrating containerized logic.
 * **Matrix Testing**: Workflows that run tests across multiple Node.js versions simultaneously.
 
-> **Note**: Some workflows (specifically in Modules 6, 9, and 10) require specific **GitHub Secrets** (e.g., AWS credentials, Docker Hub tokens) to run successfully.
-
 ## 🛠 Technologies Used
 
 * **CI/CD**: GitHub Actions (YAML)
